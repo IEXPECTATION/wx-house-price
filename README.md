@@ -9,6 +9,6 @@
 
 ## License
 
-The files are under the CC-By-NC 4.0.
+All files are under the CC-By-NC 4.0.
 
 All rights to the data are reserved by the data provider.
